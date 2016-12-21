@@ -29,3 +29,35 @@
 2016-12-21 14:46:16,807 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Desktop/Programming/MultiCampus/MyAssignment/Spring/BookTable1/src/main/resources
 2016-12-21 14:46:16,808 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-12-21 14:46:16,810 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Desktop/Programming/MultiCampus/MyAssignment/Spring/BookTable1/src/test/resources
+2016-12-21 14:52:05,671 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BookTable1:BookTable1:0.0.1-SNAPSHOT @ /Users/LeeseoYee/Desktop/Programming/MultiCampus/MyAssignment/Spring/BookTable1/pom.xml.
+2016-12-21 14:52:06,290 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-21 14:52:06,292 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Desktop/Programming/MultiCampus/MyAssignment/Spring/BookTable1/src/main/resources
+2016-12-21 14:52:06,295 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-21 14:52:06,298 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Desktop/Programming/MultiCampus/MyAssignment/Spring/BookTable1/src/test/resources
+2016-12-21 14:55:43,056 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: BookDBMS:BookDBMS:0.0.1-SNAPSHOT @ /Users/LeeseoYee/Desktop/Programming/MultiCampus/MyAssignment/Spring/BookDBMS/pom.xml.
+2016-12-21 14:55:44,511 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-21 14:55:44,512 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Desktop/Programming/MultiCampus/MyAssignment/Spring/BookDBMS/src/main/resources
+2016-12-21 14:55:44,521 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-21 14:55:44,522 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Desktop/Programming/MultiCampus/MyAssignment/Spring/BookDBMS/src/test/resources
+2016-12-21 14:55:44,551 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BookDBMS/src
+2016-12-21 14:55:44,552 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /BookDBMS/src/test/java because it overlaps with /BookDBMS/src
+2016-12-21 14:55:45,007 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-12-21 14:55:45,323 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: BookDBMS:BookDBMS:0.0.1-SNAPSHOT @ /Users/LeeseoYee/Desktop/Programming/MultiCampus/MyAssignment/Spring/BookDBMS/pom.xml.
+2016-12-21 14:55:46,569 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BookDBMS/src
+2016-12-21 14:55:46,570 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /BookDBMS/src/test/java because it overlaps with /BookDBMS/src
+2016-12-21 14:55:46,778 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-21 14:55:46,779 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Desktop/Programming/MultiCampus/MyAssignment/Spring/BookDBMS/src/main/resources
+2016-12-21 14:55:46,783 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-21 14:55:46,784 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Desktop/Programming/MultiCampus/MyAssignment/Spring/BookDBMS/src/test/resources
+2016-12-21 14:55:46,784 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BookDBMS
+2016-12-21 14:55:46,784 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BookDBMS
+2016-12-21 14:55:46,791 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-21 14:55:46,855 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for BookDBMS
+2016-12-21 14:55:46,890 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-12-21 14:55:47,811 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-21 14:55:47,812 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Desktop/Programming/MultiCampus/MyAssignment/Spring/BookDBMS/src/main/resources
+2016-12-21 14:55:47,813 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-21 14:55:47,814 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Desktop/Programming/MultiCampus/MyAssignment/Spring/BookDBMS/src/test/resources
+2016-12-21 14:55:47,814 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BookDBMS
+2016-12-21 14:55:47,814 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BookDBMS
+2016-12-21 14:55:47,818 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
