@@ -1,0 +1,31 @@
+2016-12-21 14:44:29,769 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: BookTable1:BookTable1:0.0.1-SNAPSHOT @ /Users/LeeseoYee/Desktop/Programming/MultiCampus/MyAssignment/Spring/BookTable1/pom.xml.
+2016-12-21 14:44:32,016 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-21 14:44:32,019 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Desktop/Programming/MultiCampus/MyAssignment/Spring/BookTable1/src/main/resources
+2016-12-21 14:44:32,022 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-21 14:44:32,022 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Desktop/Programming/MultiCampus/MyAssignment/Spring/BookTable1/src/test/resources
+2016-12-21 14:44:32,051 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BookTable1/src
+2016-12-21 14:44:32,052 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /BookTable1/src/test/java because it overlaps with /BookTable1/src
+2016-12-21 14:44:32,596 [Worker-21] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-12-21 14:44:33,002 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: BookTable1:BookTable1:0.0.1-SNAPSHOT @ /Users/LeeseoYee/Desktop/Programming/MultiCampus/MyAssignment/Spring/BookTable1/pom.xml.
+2016-12-21 14:44:34,139 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-21 14:44:34,140 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Desktop/Programming/MultiCampus/MyAssignment/Spring/BookTable1/src/main/resources
+2016-12-21 14:44:34,143 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-21 14:44:34,143 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Desktop/Programming/MultiCampus/MyAssignment/Spring/BookTable1/src/test/resources
+2016-12-21 14:44:34,144 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BookTable1
+2016-12-21 14:44:34,145 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BookTable1
+2016-12-21 14:44:34,175 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-21 14:44:34,219 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BookTable1/src
+2016-12-21 14:44:34,226 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /BookTable1/src/test/java because it overlaps with /BookTable1/src
+2016-12-21 14:44:34,512 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for BookTable1
+2016-12-21 14:44:34,537 [Worker-21] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-12-21 14:44:35,228 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-21 14:44:35,229 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Desktop/Programming/MultiCampus/MyAssignment/Spring/BookTable1/src/main/resources
+2016-12-21 14:44:35,231 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-21 14:44:35,232 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Desktop/Programming/MultiCampus/MyAssignment/Spring/BookTable1/src/test/resources
+2016-12-21 14:44:35,232 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BookTable1
+2016-12-21 14:44:35,232 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BookTable1
+2016-12-21 14:44:35,239 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-21 14:46:16,806 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-21 14:46:16,807 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Desktop/Programming/MultiCampus/MyAssignment/Spring/BookTable1/src/main/resources
+2016-12-21 14:46:16,808 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-21 14:46:16,810 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Desktop/Programming/MultiCampus/MyAssignment/Spring/BookTable1/src/test/resources
