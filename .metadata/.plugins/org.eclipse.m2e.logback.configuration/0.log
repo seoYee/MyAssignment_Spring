@@ -65,3 +65,7 @@
 2016-12-21 15:26:38,586 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Desktop/Programming/MultiCampus/MyAssignment/Spring/BookDBMS/src/main/resources
 2016-12-21 15:26:38,623 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-12-21 15:26:38,624 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Desktop/Programming/MultiCampus/MyAssignment/Spring/BookDBMS/src/test/resources
+2016-12-21 15:45:23,691 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-21 15:45:23,698 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Desktop/Programming/MultiCampus/MyAssignment/Spring/BookDBMS/src/main/resources
+2016-12-21 15:45:23,702 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-21 15:45:23,702 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Desktop/Programming/MultiCampus/MyAssignment/Spring/BookDBMS/src/test/resources
